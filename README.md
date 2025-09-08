@@ -1,6 +1,6 @@
 # 👨‍💻 Isaac Porras Sánchez
 
-Hi there! I'm a **passionate software developer** with a background from [42 Málaga](https://42malaga.com/), where I learned to thrive in **peer-driven, project-based environments**.  
+Hi there! I'm a **passionate software developer** with a background from [42 Coding Intensive Program](https://www.42network.org), where I learned to thrive in **peer-driven, project-based environments**.  
 I love building systems from the ground up, solving complex problems, and continuously improving my skills.  
 
 Currently based in **Australia 🇦🇺**, looking to grow as a **Software Engineer** while contributing value from day one.  
@@ -17,26 +17,26 @@ Currently based in **Australia 🇦🇺**, looking to grow as a **Software Engin
 
 ## 🛠️ Projects
 
-### 🔹 [Dynamic Web Platform – Django + Microservices](#)
+### 🔹 [Dynamic Web Platform – Django + Microservices](https://github.com/DorukEmre/PongWithDjango)
 - Built a full-stack web app using **Django** with a **microservice architecture (Docker)**.  
 - Implemented **user authentication**, **real-time chat with WebSockets**, and **MariaDB** integration.  
 - Used **NGINX** as reverse proxy & static file server.  
 
 ---
 
-### 🔹 [Custom Unix Shell in C](#)
+### 🔹 [Custom Unix Shell in C](https://github.com/iisaacc/git_minishell)
 - Developed a **Bash-like shell** from scratch in **C**.  
 - Features: command parsing (context-free grammar), **GNU Readline**, pipelines, redirections, and signal handling.  
 
 ---
 
-### 🔹 [3D Game Engine with Raycasting](#)
+### 🔹 [3D Game Engine with Raycasting](https://github.com/iisaacc/cub3d)
 - Designed a basic **3D engine** in C using **raycasting** + MLX (X-Window API).  
 - Added texture mapping, collision detection, and optimized performance with low-level memory management.  
 
 ---
 
-### 🔹 [HTTP Server in C++ (NGINX-like)](#)
+### 🔹 [HTTP Server in C++ (NGINX-like)](https://github.com/BenjaminLarger/WebServ)
 - Built a **multithreaded HTTP server** in **C++** supporting:  
   - `GET`, `POST`, `DELETE` methods  
   - Static websites & **CGI scripts**  
@@ -56,8 +56,8 @@ Currently based in **Australia 🇦🇺**, looking to grow as a **Software Engin
 
 - 📍 Based in **Byron Bay, NSW, Australia**
 - 💼 Open to opportunities as **Software Engineer / Backend Developer / DevOps**
-- 📫 Reach me on **[LinkedIn](https://www.linkedin.com/)** (add your link)  
-- 📧 Email: *(add your email here)*  
+- 📫 Reach me on **[LinkedIn](https://www.linkedin.com/in/isaacporras)** 
+- 📧 Email: *(isaacporrassanchez@hotmail.com)*  
 
 ---
 
