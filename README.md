@@ -1,4 +1,4 @@
-# 👨‍💻 Juan Porras Sánchez
+# 👨‍💻 Isaac Porras Sánchez
 
 Hi there! I'm a **passionate software developer** with a background from [42 Málaga](https://42malaga.com/), where I learned to thrive in **peer-driven, project-based environments**.  
 I love building systems from the ground up, solving complex problems, and continuously improving my skills.  
