@@ -24,6 +24,13 @@ Currently based in **Australia 🇦🇺**, looking to grow as a **Software Engin
 
 ---
 
+### 🔹 [Small Business Booking Website](https://github.com/yourusername/innes-mechanical-booking)
+- Built a **mobile-first booking website** for a local motorcycle workshop in Byron Bay.  
+- Customers can **view services, check opening hours, and submit booking requests** online.  
+- Developed with **React, TypeScript, Vite, and Tailwind CSS** with a focus on usability and real-world small business needs.
+
+---
+
 ### 🔹 [Custom Unix Shell in C](https://github.com/iisaacc/git_minishell)
 - Developed a **Bash-like shell** from scratch in **C**.  
 - Features: command parsing (context-free grammar), **GNU Readline**, pipelines, redirections, and signal handling.  
